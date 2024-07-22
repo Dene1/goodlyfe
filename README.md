@@ -1,5 +1,5 @@
-# Мое Резюме
+# Goodlyfe
 
-## Результат вы можете посмотреть тут
+## Верстка 
 
-[Моя первая работа на HTML & CSS](https://dene1.github.io/Resume/resume.html)
+[Моя первая верстка на HTML & CSS](https://dene1.github.io/Resume/resume.html)
